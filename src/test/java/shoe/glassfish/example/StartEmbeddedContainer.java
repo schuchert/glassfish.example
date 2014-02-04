@@ -1,7 +1,5 @@
 package shoe.glassfish.example;
 
-import org.glassfish.embeddable.GlassFish;
-import org.glassfish.embeddable.GlassFishRuntime;
 import org.junit.Test;
 import shoe.glassfish.example.bean.HelloWorldService;
 
